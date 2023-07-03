@@ -3,7 +3,7 @@ searching client data from database to make word document (.docx) for finger exa
 
 
 ## Why the project is useful
-- make user edit document to put client data easier and faster
+- make user edit document to put client data to document easier and faster
 - can search to filling client's data by name id etc.
 - make filling data such as who's approve, where's client have to examine and university's campus pre filling and collected in database
 - can use only registed user / Have function that can add and delete user in program
