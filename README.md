@@ -8,7 +8,7 @@ searching client data from database to make word document (.docx) for finger exa
 - make filling data such as who's approve, where's client have to examine and university's campus pre filling and collected in database
 - can use only registed user / Have function that can add and delete user in program
 
-## simple / how it use
+## sample / how it use
 
 <img src="https://github.com/BrokenHead/finger_examine_form_README/assets/37082529/7ab615bf-6dee-4c3f-b184-8247fc999dff" width="400" />
 
