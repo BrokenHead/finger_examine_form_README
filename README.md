@@ -17,11 +17,11 @@ searching client data from database to make word document (.docx) for finger exa
 1. login with your Username and Password if don't have it, contact Computer officer (Admin)
 2. checking D:\พิมพ์ลายนิ้วมือเอกสารเปล่า.docx or paste this file because this is empty .docx for filling
 3. selete filling data and searching for client,For more detail click how to use
-4. result will going to D:\เอกสารพิมพ์ลายนิ้วมือ if you don't have this folder program will make folder for keep this document
+4. result will going to D:\เอกสารพิมพ์ลายนิ้วมือ if you don't have this folder, program will make folder for keep this document
 5. program will open documnt for user to checking and manual page format 
 
-## empty form .docx file
+## empty form .docx file (Official documents + letter's address)
 
 <img src="https://github.com/BrokenHead/finger_examine_form_README/assets/37082529/1479f093-d5d3-466c-91ce-34961ef68b17">
 
-## for more detail contact [Me](https://github.com/BrokenHead).
+### for more detail contact [Me](https://github.com/BrokenHead).
